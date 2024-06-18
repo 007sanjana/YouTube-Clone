@@ -1,0 +1,46 @@
+p{
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.video_title{
+  font-size: 18px;
+  font-weight: bold;
+  width:280px;
+  line-height: 26px;
+  margin-top: 18px;
+}
+.views{
+  color: #606060;
+  font-size: 14px;
+  margin-top: 2px;
+  margin-bottom: 20px;
+}
+.description{
+  color: #606060;
+  font-size: 14px;
+  width: 285;
+  line-height: 21px;
+  margin-bottom: 100px;
+}
+.name{
+  color: #606060;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.red_box{
+  font-size: 14px;
+  background-color: #e34140;
+  color:aliceblue;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top:16px ;
+  padding-bottom: 16px;
+  text-align: center;
+}
+.span_example{
+cursor: pointer;
+}
+.span_example:hover{
+  text-decoration: underline;
+}
